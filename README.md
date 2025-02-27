@@ -1,1 +1,1 @@
-👋 Hi, I’m Dmitriy (@arroundus)
+Backend dev (node.js)
